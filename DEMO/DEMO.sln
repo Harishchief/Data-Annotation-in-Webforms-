@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEMO", "DEMO\DEMO.csproj", "{716144B6-8647-44FD-9C74-02F22B3F779E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reference", "Reference", "{AFB3759A-AF93-4D3E-9768-875CCBD30C23}"
+	ProjectSection(SolutionItems) = preProject
+		Reference\DataAnnotation.dll = Reference\DataAnnotation.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{716144B6-8647-44FD-9C74-02F22B3F779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716144B6-8647-44FD-9C74-02F22B3F779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716144B6-8647-44FD-9C74-02F22B3F779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716144B6-8647-44FD-9C74-02F22B3F779E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
