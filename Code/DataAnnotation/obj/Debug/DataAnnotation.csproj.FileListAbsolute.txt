@@ -1,0 +1,5 @@
+D:\Projects\Development\DataAnnotation\DataAnnotation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Development\DataAnnotation\DataAnnotation\bin\Debug\DataAnnotation.dll
+D:\Projects\Development\DataAnnotation\DataAnnotation\bin\Debug\DataAnnotation.pdb
+D:\Projects\Development\DataAnnotation\DataAnnotation\obj\Debug\DataAnnotation.dll
+D:\Projects\Development\DataAnnotation\DataAnnotation\obj\Debug\DataAnnotation.pdb
